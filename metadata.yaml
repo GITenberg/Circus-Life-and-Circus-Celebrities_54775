@@ -1,5 +1,8 @@
 _repo: Circus-Life-and-Circus-Celebrities_54775
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54775-h/images/cover.jpg
 creator:
   author:
     agent_name: Frost, Thomas
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '41446'
     url: http://www.gutenberg.org/2009/agents/41446
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54775#Circus-Life-and-Circus-Celebrities
 gutenberg_issued: '2017-05-24'
 gutenberg_type: Text
 identifiers:
